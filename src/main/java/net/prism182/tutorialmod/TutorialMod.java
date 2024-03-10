@@ -12,7 +12,7 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
-import net.prism182.tutorialmod.Block.ModBlocks;
+import net.prism182.tutorialmod.block.ModBlocks;
 import net.prism182.tutorialmod.item.ModCreativeModTabs;
 import net.prism182.tutorialmod.item.ModItems;
 import org.slf4j.Logger;
